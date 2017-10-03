@@ -39,14 +39,15 @@ body
 }
 
 
-#collapsable-nav
+/*div#collapsable-nav
 {
   border:0px;
 }
-
+*/
 #nav-list a {
   color: black;
   text-align: center;
+  border:1px solid black;
 }
 #nav-list a:hover {
   background: #E7E7E7;
@@ -102,5 +103,5 @@ div.content-wrapper
   text-align:right;
  padding-right:10px;
   padding-left:0px;
-  opacity:0.7;
+  
 }
